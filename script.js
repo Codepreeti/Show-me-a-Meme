@@ -1,9 +1,9 @@
 const memes = [
-    'memes/meme 1.jpg',
-    'memes/meme 2.jpg',
-    'memes/meme 3.png',
-    'memes/meme 4.jpg',
-    'memes/meme 5.jpg'
+    'meme 1.jpg',
+    'meme 2.jpg',
+    'meme 3.png',
+    'meme 4.jpg',
+    'meme 5.jpg'
 ];
 
 document.getElementById('memeButton').addEventListener('click', showMeme);
